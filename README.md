@@ -1,6 +1,6 @@
 # DevBurguer
 
-![Descrição da imagem]("C:\Users\gustz\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-05-05 211550.png")
+![Loja do Burger Market]()
 
 - Página desenvolvida com HTML, TailwindCSS e Javascript.
 
